@@ -1,0 +1,5 @@
+{
+  "name": "RepoScantinel_project",
+  "description": "A creative, student-led GitHub repository vulnerability scanner featuring static analysis, risk scoring, and interactive security dashboards.",
+  "requestFramePermissions": []
+}
